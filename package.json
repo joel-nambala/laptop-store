@@ -1,0 +1,14 @@
+{
+  "name": "laptop-store",
+  "version": "1.0.0",
+  "description": "A simple laptop store",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon script.js"
+  },
+  "author": "Joel Nambala",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
